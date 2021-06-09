@@ -59,7 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Person.sql" />
-    <Build Include="Transaction_ben_gardiner.sql" />
+    <Build Include="Concurrency_ben_gardiner.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Script.PostDeployment1.sql" />
